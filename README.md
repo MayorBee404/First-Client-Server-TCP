@@ -1,2 +1,2 @@
-# first-client-server-tcp
-Multi Client Server TCP berbasis Java
+# Multi Client Server TCP berbasis Java
+Program Chat Room yang bisa Chatting dengan banyak Client dengan Program Java
